@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ershubhambhagat/notes.github.io/static/css/main.0b1ed438.css",
+    "main.js": "/Ershubhambhagat/notes.github.io/static/js/main.95f7dbfe.js",
+    "static/js/787.c1112931.chunk.js": "/Ershubhambhagat/notes.github.io/static/js/787.c1112931.chunk.js",
+    "index.html": "/Ershubhambhagat/notes.github.io/index.html",
+    "main.0b1ed438.css.map": "/Ershubhambhagat/notes.github.io/static/css/main.0b1ed438.css.map",
+    "main.95f7dbfe.js.map": "/Ershubhambhagat/notes.github.io/static/js/main.95f7dbfe.js.map",
+    "787.c1112931.chunk.js.map": "/Ershubhambhagat/notes.github.io/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1ed438.css",
+    "static/js/main.95f7dbfe.js"
+  ]
+}
